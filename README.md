@@ -25,5 +25,5 @@ right click it and get the source URL, which in this case is https://github.com/
 hackclub/dinosaurs/raw/main/smart_dinosaur_docs.png, and put it in an image
 tag like so:
 
-
+We can't get user input with HTML, so if we wanted to do this, we'd have to use another coding language (called Javascript). Then, if we wanted to store
 
