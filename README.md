@@ -12,3 +12,18 @@ information within the these tags by
 surrounding your content with an opening
 and closing tag.
 
+Preview
+
+Copy image address for an image you want to add to your site
+
+Adding images to the Body
+
+Images are included in HTML via the image tag, or <img>. The image tag has an
+attribute called src, which will hold the source URL of the image you want to
+display. As an example, if I were to add this picture of Prophet Orpheus, I would
+right click it and get the source URL, which in this case is https://github.com/
+hackclub/dinosaurs/raw/main/smart_dinosaur_docs.png, and put it in an image
+tag like so:
+
+
+
